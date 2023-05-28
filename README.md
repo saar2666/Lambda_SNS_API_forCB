@@ -4,6 +4,7 @@ to run it, create .sh file with this inside:
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"number1": 6, "number2": 6}' https://4pjyvwvt95.execute-api.eu-north-1.amazonaws.com/Prod
 ```
+then open terminal and do the following:
 ```
 1. cd to script path
 ```
